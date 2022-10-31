@@ -4,3 +4,12 @@
     font-weight: bold;
     
 }
+
+.center {
+    text-align: center;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
